@@ -46,7 +46,7 @@ python test.py
 
 ### Params, Flops
 ![Param_FLOPS](./images/param_flops.png)
-<img src="./images/param_flops.png" width="200" height="400"/>
+<img src="./images/param_flops.png" width="710" height="190"/>
 
 ### Visual Comparisons
 ![Visualization_results](./images/visual_results.png)
